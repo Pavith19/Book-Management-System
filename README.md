@@ -1,3 +1,8 @@
+<!--
+-- Author: Pavith Bambaravanage
+-- URL: https://github.com/Pavith19
+-->
+
 ![GitHub top language](https://img.shields.io/github/languages/top/Pavith19/Book-Management-System?style=flat)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Pavith19/Book-Management-System?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/Pavith19/Book-Management-System.svg?cache=remove)
